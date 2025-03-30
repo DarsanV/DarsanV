@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/830d191e-5409-4822-a19e-95856d50d726)
+![Image](https://github.com/user-attachments/assets/e049e5b1-9a09-4492-b61d-6000b2aca24c)
 
 🏛️ Darsan V | Crafting Code & Clouds
 I build, I automate, I secure.
