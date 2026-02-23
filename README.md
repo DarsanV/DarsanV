@@ -11,5 +11,8 @@ I’m curious by nature, driven by impact, and always learning what’s next. I 
 Building. Breaking. Improving. Repeating 🚀</p>
 
 <h2>Technologies & Tools </h2>
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,spring,mysql,mongodb,aws,azure,docker,jenkins,kubernetes,terraform,linux,debian,redhat)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,spring,mysql,mongodb,aws,azure,docker,jenkins,kubernetes,terraform,linux,debian,redhat" />
+</p>
 
