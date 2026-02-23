@@ -1,6 +1,6 @@
 
 
-<img width="2000" height="1200" alt="Hi , I’M DARSAN V (1)" src="https://github.com/user-attachments/assets/9a03bdbe-83cb-4116-9465-ec446dd78522" />
+<img width="1900" height="800" alt="Hi , I’M DARSAN V (1)" src="https://github.com/user-attachments/assets/9a03bdbe-83cb-4116-9465-ec446dd78522" />
 
 
 🏛️ Darsan V | Crafting Code & Clouds
