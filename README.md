@@ -10,5 +10,6 @@ I have a strong grasp of infrastructure and cloud fundamentals, and hands-on exp
 I’m curious by nature, driven by impact, and always learning what’s next. I like clean systems, smart automation, and projects that push boundaries.
 Building. Breaking. Improving. Repeating 🚀</p>
 
-
+<h2>Technologies & Tools </h2>
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,spring,mysql,mongodb,aws,azure,docker,jenkins,kubernetes,terraform,linux,debian,redhat)
 
